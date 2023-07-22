@@ -1,0 +1,20 @@
+Apple headquarters is located at 1 Infinite Loop, Cupertino, California, USA.
+Google headquarters is located at 1600 Amphitheatre Parkway, Mountain View, California, USA.
+Microsoft headquarters is located at One Microsoft Way, Redmond, Washington State, USA.
+Cisco headquarters is located at 170 West Tasman Dr., San Jose, California, USA.
+Amazon headquarters is located at 410 Terry Ave N, Seattle, Washington State, USA.
+Meta headquarters is located at 1 Hacker Way, Menlo Park, California, USA.
+Nvidia headquarters is located at 2788 San Tomas Expressway, Santa Clara, California, USA.
+Intel headquarters is located at 2200 Mission College Blvd, Santa Clara, California, USA.
+Walmart headquarters is located at 702 SW 8th St, Bentonville, Arkansas, USA.
+Best Buy headquarters is located at 7601 Penn Ave S, Richfield, Minnesota, USA.
+Reliance Industries headquarters is located at Makers Chambers - IV, Nariman Point, Mumbai, Maharashtra, India. 
+Tata Motors headquarters is located at International Business Shah House, 4th Floor, A Block, Shivsagar Estate, Mumbai, Maharashtra, India.
+State Bank of India headquarters is located at State Bank Bhavan Madame Cama Marg, Mumbai, Maharashtra, India.
+ONGC headquarters is located at Deendayal Urja Bhawan, 5A, Nelson Mandela Marg, Vasant Kunj, New Delhi, Delhi, India.
+HDFC Bank headquarters is located at HDFC House, H T Parekh Marg, 165-166, Backbay Reclamation, Churchgate, Mumbai, Maharashtra, India.
+Infosys headquarters is located at No. 44, Hosur Road, Electronics City, Bangalore, Karnataka, India.
+Wipro headquarters is located at Wipro Gate, Doddakannahalli, Sarjapur Road, Bangalore, Karnataka, India.
+Adani Enterprises headquarters is located at Shantigram, Near Vaishnodevi Circle, S G Highway, Ahmedabad, Gujarat, India.
+ITC Limited headquarters is located at ITC LIMITED, 37 J. L. Nehru Road, Kolkata, West Bengal, India.
+Bharti Airtel headquarters is located at Bharti Crescent 1, Nelson Mandela Road, New Delhi, Delhi, India.
